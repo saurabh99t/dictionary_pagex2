@@ -1,0 +1,68 @@
+@media (max-width: 1024px){
+    .h1-main h1{
+        position: absolute; 
+        top: 15%; 
+        left: 28%;
+        font-size: 2.5rem;
+        color: white;
+      }
+
+
+   
+}
+
+
+@media (max-width: 800px){
+    
+}
+
+
+
+@media (max-width: 768px){
+    .word-card {
+        padding: 35px;
+    }
+    .h1-main h1{
+        position: absolute; 
+        top: 15%; 
+        left: 20%;
+        font-size: 2.5rem;
+        color: white;
+      }
+}
+
+
+
+@media (max-width: 600px){
+    
+}
+
+
+@media (max-width: 450px){
+  
+
+      .h1-main h1 {
+        position: absolute;
+        top: 15%;
+        left: 8%;
+        font-size: 2rem;
+        color: white;
+    }
+
+
+    .word-card h2 {
+        font-size: 18px;
+    }
+
+
+    .word-card p{
+        font-size: 12px;
+    }
+
+    .word-card ul{
+        font-size: 12px;
+    }
+
+
+     
+}
